@@ -9,7 +9,7 @@
 
 - 📄 My experiences : **Benchmarking Security Information and Event Management (SIEM)**
 
-- ⚡ Fun fact **Hungry every-time 😾​**
+- ⚡ Fun fact **Hungry all time 😾​**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
