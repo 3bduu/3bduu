@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 3bduu</h1>
 <h3 align="center">COMPUTER SCIENCE STUDENT</h3>
+[![<Abdelilah Benlahbib>'s 42 stats](https://badge.mediaplus.ma/black/<Abdelilah Benlahbib>)](https://github.com/oakoudad/badge42)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=3bduu&label=Profile%20views&color=0e75b6&style=flat" alt="3bduu" /></p>
