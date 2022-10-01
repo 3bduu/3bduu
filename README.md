@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm 3bduu</h1>
 <h3 align="center">COMPUTER SCIENCE STUDENT</h3>
-[![<Abdelilah Benlahbib>'s 42 stats](https://badge.mediaplus.ma/black/<Abdelilah Benlahbib>)](https://github.com/oakoudad/badge42)
-
-
+<h3 align="left">42 BADGE:</h3>
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abenlahb" alt="abenlahb's 42 stats" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=3bduu&label=Profile%20views&color=0e75b6&style=flat" alt="3bduu" /></p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113942438/192161679-8137db34-07b1-4ad3-95ff-4f1035c56e18.gif">
 
