@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=3bduu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=3bduu&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bduu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/3bduu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3bduu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
