@@ -1,3 +1,4 @@
+<p align="center">
 # 💫 Hi, I'm JaQen:
 
 ## 👨🏻‍🎓 42 BADGE:
